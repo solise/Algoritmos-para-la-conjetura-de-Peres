@@ -1,0 +1,2 @@
+# Algoritmos-para-la-conjetura-de-Peres
+Aquí se presentan un conjunto de algoritmos, implementados usando Nauty, orientados al trabajo con grafos y la resolución de ciertos aspectos de determinados campos de la física cuántica. Los algoritmos están implementados en lenguaje C y definidos mediante la estructura de datos que proporciona Nauty, a parte de las macros y funciones que ya implementa, para la representación y el trabajo con la estructura de un grafo.
