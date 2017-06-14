@@ -1,4 +1,4 @@
-# Algoritmos-para-la-conjetura-de-Peres
+# Algoritmos para la conjetura de Peres
 
 *Alberto Solís ENcina. Proyecto fin de carrera 2010-2011. Departamento de Matemática Aplicada I
 
