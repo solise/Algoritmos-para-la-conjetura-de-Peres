@@ -1,6 +1,6 @@
 # Algoritmos para la conjetura de Peres
 
-*Alberto Solís ENcina. Proyecto fin de carrera 2010-2011. Departamento de Matemática Aplicada I
+*Alberto Solís Encina. Proyecto fin de carrera 2010-2011. Departamento de Matemática Aplicada I
 
 Guía para obtener los ficheros fuente (en .c) del algoritmo de Peres para usar en Nauty.
 1. Descomprima el contenido en una carpeta (con el nombre "AlgPeresDimN", por ejemplo).
